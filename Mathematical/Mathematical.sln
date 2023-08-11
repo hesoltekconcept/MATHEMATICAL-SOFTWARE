@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "Mathematical", "Mathematical\Mathematical.vbproj", "{0DCA1090-0E22-4DBC-A7C8-2174C3089517}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0DCA1090-0E22-4DBC-A7C8-2174C3089517}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0DCA1090-0E22-4DBC-A7C8-2174C3089517}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0DCA1090-0E22-4DBC-A7C8-2174C3089517}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0DCA1090-0E22-4DBC-A7C8-2174C3089517}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,17 @@
+c:\users\hesoltek\documents\visual studio 2012\Projects\Mathematical\Mathematical\bin\Debug\Mathematical.exe.config
+c:\users\hesoltek\documents\visual studio 2012\Projects\Mathematical\Mathematical\bin\Debug\Mathematical.exe
+c:\users\hesoltek\documents\visual studio 2012\Projects\Mathematical\Mathematical\bin\Debug\Mathematical.pdb
+c:\users\hesoltek\documents\visual studio 2012\Projects\Mathematical\Mathematical\bin\Debug\Mathematical.xml
+c:\users\hesoltek\documents\visual studio 2012\Projects\Mathematical\Mathematical\obj\Debug\Mathematical.Form1.resources
+c:\users\hesoltek\documents\visual studio 2012\Projects\Mathematical\Mathematical\obj\Debug\Mathematical.Resources.resources
+c:\users\hesoltek\documents\visual studio 2012\Projects\Mathematical\Mathematical\obj\Debug\Mathematical.vbproj.GenerateResource.Cache
+c:\users\hesoltek\documents\visual studio 2012\Projects\Mathematical\Mathematical\obj\Debug\Mathematical.exe
+c:\users\hesoltek\documents\visual studio 2012\Projects\Mathematical\Mathematical\obj\Debug\Mathematical.xml
+c:\users\hesoltek\documents\visual studio 2012\Projects\Mathematical\Mathematical\obj\Debug\Mathematical.pdb
+c:\users\hesoltek\documents\visual studio 2012\Projects\Mathematical\Mathematical\obj\Debug\Mathematical.LoginForm1.resources
+c:\users\hesoltek\documents\visual studio 2012\Projects\Mathematical\Mathematical\obj\Debug\Mathematical.SplashScreen1.resources
+c:\users\hesoltek\documents\visual studio 2012\Projects\Mathematical\Mathematical\bin\Debug\Mathematical.exe.manifest
+c:\users\hesoltek\documents\visual studio 2012\Projects\Mathematical\Mathematical\bin\Debug\Mathematical.application
+c:\users\hesoltek\documents\visual studio 2012\Projects\Mathematical\Mathematical\obj\Debug\Mathematical.exe.manifest
+c:\users\hesoltek\documents\visual studio 2012\Projects\Mathematical\Mathematical\obj\Debug\Mathematical.application
+c:\users\hesoltek\documents\visual studio 2012\Projects\Mathematical\Mathematical\obj\Debug\Mathematical.Form2.resources
